@@ -146,7 +146,7 @@ void besar_kecil()
 
 using namespace std;
 void nilai_terbesar_darinilaiacak() {
-    cout<< "Muhamad Amirul Fiqhi"<<endl;
+    cout<< "CHRISTOPER RAYO"<<endl;
     cout<< " ______________________________________________________________"<<endl;
     cout<< "|Algoritma Mencari Nilai Terbesar Dari Bilangan Yang Diinputkan|"<<endl;
     cout<< "|______________________________________________________________|"<<endl;
@@ -246,7 +246,7 @@ void Program_kasir()
 {
 
 
-    cout<< "|              Muhamad Amirul Fiqhi                   |"<<endl;
+    cout<< "|              CHRISTOPER RAYO                   |"<<endl;
     cout<< "|-----------------------------------------------------|"<<endl;
     cout<< "|Tugas Praktikum4"<< "Program Menghitung Total Belanja     |"<< endl;
     cout<< "|-----------------------------------------------------|" <<endl;
