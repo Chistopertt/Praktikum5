@@ -128,7 +128,7 @@ void besar_kecil()
     cout << "angka" <<" " << kecil << " "<< " lebih kecil dari angka  "  << besar << endl;
 }
 ```
-![hsl](https://raw.githubusercontent.com/Amirul29/Praktikum5/master/latihan2/2.png)
+![hsl](https://raw.githubusercontent.com/Chistopertt/Praktikum5/master/latihan2/2.png)
 
 ## latihan 3 **mngembangkan aplikasi dengan menggunakan header(memisah fungsi kedalam file yang berbeda)**
 **Alur Algoritma**
