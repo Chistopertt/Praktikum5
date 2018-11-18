@@ -34,7 +34,7 @@ int main()
 ```
 
 **hasil**
-![hsl](https://raw.githubusercontent.com/Amirul29/Praktikum5/master/latihan1/1.png)
+![hsl](https://raw.githubusercontent.com/Chistopertt/Praktikum5/master/latihan1/1.png)
 
 ## latihan **mengambangkan aplikasi dengan menggunakan fungsi dari hasil praktikum sebelumnya**
 **Alur Algoritma**
